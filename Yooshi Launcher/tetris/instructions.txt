@@ -1,0 +1,4 @@
+To change rotation of the current Piece (w)
+To move Left (a)
+To move Right (d)
+Hard drop (The piece will fall down instantly) (s)
